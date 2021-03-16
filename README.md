@@ -1,2 +1,2 @@
 # CloudSecurity
-Adding al my learning here to share with others 
+Sharing my cloud security learning with others
